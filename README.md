@@ -5,6 +5,7 @@
 * Each interval is known as a pomodoro, from the Italian word for tomato, after the tomato-shaped kitchen timer Cirillo used as a university student.
 * After 3 complete pomodoro cycles and one work interval there is a long break of 20 minutes.
 * And then the process repeats again.
+
 ### Standalone executable for Mac and Windows coming soon . . .
 
 ## First Look
